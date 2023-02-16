@@ -6,5 +6,7 @@ def to_upper(in_str):
     return in_str.upper()
 
 def to_capitalize(in_str):
-    """ Capitalize """
+    """
+    Capitalize
+    """
     return in_str.capitalize()
